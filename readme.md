@@ -21,7 +21,7 @@ BC
 
 - Tests passed
 
-![image](https://github.com/EduardoMeloDev/Token-ERC721-Eduardo/blob/main/test%20truffle.png)
+![image](https://github.com/EduardoMeloDev/Token-ERC721-Eduardo/blob/main/perfomingTests.png)
 
 - Web Application
 
