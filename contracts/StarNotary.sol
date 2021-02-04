@@ -91,7 +91,7 @@ contract StarNotary is ERC721 {
 
         require((msg.sender == ownerOf(_tokenId)), "Sender is not equal to owner");
 
-        _transferFrom(msg.sender, _to1, _tokenId);
+        transferFrom(msg.sender, _to1, _tokenId);
 
     }
 
